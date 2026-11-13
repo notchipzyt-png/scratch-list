@@ -1,12 +1,13 @@
 [
   {
-    "id": "rcd-trilogy",
-    "title": "RCD Trilogy",
-    "description": "All RCD Projects",
-    "pointsReward": 45,
+    "id": "fnaf-based",
+    "title": "Fnaf Based",
+    "description": "Fnaf Based Projects",
+    "pointsReward": 100,
     "levels": [
-      { "id": "lvl-1", "title": "Rcd 2" },
-      { "id": "lvl-2", "title": "RCD 3" }
+      { "id": "lvl-1", "title": "1 night at mr can do remasterd" },
+      { "id": "lvl-2", "title": "Rcd 2" },
+      { "id": "lvl-3", "title": "RCD 3" }
     ]
   }
 ]
